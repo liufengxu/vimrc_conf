@@ -1,4 +1,11 @@
 Firstly install vundel: 
 git clone https://github.com/gmarik/vundle.git ~/.vim/bundle/vundle
-Then exit vim and open vim again, input:
+Then:
+git clone https://github.com/liufengxu/vimrc_conf.git ~  
+or 
+git clone https://github.com/liufengxu/vimrc_conf.git yourdir/
+and cp .vimrc and .vimrc.bundle to ~/
+Then:
+exit vim and open vim again, input:
 :BundleInstall
+wait for vundle install the plugins
