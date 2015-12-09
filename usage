@@ -1,4 +1,4 @@
-Firstly install vundel: 
+Firstly install vundle: 
 git clone https://github.com/gmarik/vundle.git ~/.vim/bundle/vundle
 Then:
 git clone https://github.com/liufengxu/vimrc_conf.git ~  
